@@ -1,7 +1,7 @@
 ---
 name: My Custom Template
 about: My Custom Template
-title: ''
+title: 'ISSUE : '
 labels: ''
 assignees: ''
 
